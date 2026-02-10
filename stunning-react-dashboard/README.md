@@ -14,4 +14,4 @@ FEATURES:
 - Signup/Login
 - Admin approval
 - Animated UI
-- SQLite DB
+- Neon DB
